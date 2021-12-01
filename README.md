@@ -1,16 +1,31 @@
-### Hi there 👋
+### input("Hello there! I'm Dário Costa Alves")
 
-<!--
-**DarioCostaAlves/DarioCostaAlves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Currently learning Python
+- React Native enthusiast
+- Work experience in web development using CakePHP Framework
+- 👨‍💻 Eager to explore new technologies
+- 💪 Always wanting to improve
+- 👨‍🎓 Currently taking Bachelor's Degree in Information, Web and Multimedia Technologies
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <a href="https://github.com/DarioCostaAlves">
+  <img height="190em" src="https://github-readme-stats.vercel.app/api?username=DarioCostaAlves&show_icons=false&theme=nord&include_all_commits=true&count_private=true"/>  
+</div>
+  
+ <div style="display: inline_block"><br>
+  <img align="center" alt="Dario_CakePHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cakephp/cakephp-original.svg">
+  <img align="center" alt="Dario_Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+  <img align="center" alt="Dario_Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+  <img align="center" alt="Dario_Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+</div>
+  
+  ##
+  
+  <div> 
+  <a href="https://github.com/DarioCostaAlves" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a> 
+  <a href="https://instagram.com/dariocostaalves" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:dario.c.alves22@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/d%C3%A1rio-costa-93283b175/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
+ 
+ ##
