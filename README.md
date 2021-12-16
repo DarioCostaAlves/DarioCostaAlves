@@ -1,13 +1,13 @@
 ### input("Hello there! I'm Dário Costa Alves")
 
-- Currently learning Python
-- React Native enthusiast
-- Work experience in web development using CakePHP Framework
+- 🔥 Currently learning Python
+- 🤩 React Native enthusiast
+- 🎖️ Work experience in web development using CakePHP Framework
 - 👨‍💻 Eager to explore new technologies
 - 💪 Always wanting to improve
 - 👨‍🎓 Currently taking Bachelor's Degree in Information, Web and Multimedia Technologies
   
- <div style="display: inline_block"><br>
+ <div><br>
   <img align="center" alt="CakePHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cakephp/cakephp-original.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
   <img align="center" alt="React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
