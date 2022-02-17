@@ -2,7 +2,7 @@
 
 - Currently learning Python
 - React Native enthusiast
-- Work experience in web development using CakePHP Framework
+- Work experience in web development using back end in CakePHP Framework
 - Eager to explore new technologies
 - Always wanting to improve
 - Currently taking Bachelor's Degree in Information, Web and Multimedia Technologies
