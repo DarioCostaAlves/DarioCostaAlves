@@ -1,8 +1,8 @@
 ### input("Hello there! I'm Dário Costa Alves")
 
-- Currently learning Python
-- React Native enthusiast
-- CakePHP Framework
+- Flask
+- React enthusiast
+- CakePHP
 - Eager to explore new technologies
 - Always wanting to improve
 - Currently taking Bachelor's Degree in Information, Web and Multimedia Technologies
