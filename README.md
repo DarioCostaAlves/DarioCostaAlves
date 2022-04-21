@@ -1,7 +1,7 @@
 ### input("Hello there! I'm Dário Costa Alves")
 
 - Flask
-- React Native enthusiast
+- React enthusiast
 - CakePHP experience
 - Eager to explore new technologies
 - Always wanting to improve
