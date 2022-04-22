@@ -2,7 +2,7 @@
 
 - Flask
 - React enthusiast
-- CakePHP experience
+- CakePHP
 - Eager to explore new technologies
 - Always wanting to improve
 - Currently taking Bachelor's Degree in Information, Web and Multimedia Technologies
