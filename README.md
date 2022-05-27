@@ -3,7 +3,7 @@
 - Flask
 - React enthusiast
 - Eager to explore new technologies
-- Always wanting to improve
+- Always wanting to improve!
 - Currently taking Bachelor's Degree in Information, Web and Multimedia Technologies
   
  <div><br>
