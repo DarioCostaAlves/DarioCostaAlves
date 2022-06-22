@@ -4,7 +4,7 @@
 - React enthusiast
 - Eager to explore new technologies
 - Always wanting to improve!
-- Currently taking Bachelor's Degree in Information, Web and Multimedia Technologies
+- Currently taking Bachelor's Degree in Information, Web and Multimedia Technologies.
   
  <div><br>
   <img align="center" alt="CakePHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cakephp/cakephp-original.svg">
