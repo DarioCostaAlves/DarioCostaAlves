@@ -1,14 +1,11 @@
-### input("Hello there! I'm Dário Costa Alves")
+### function Introduce(){console.log("Hello, I'm Dário Alves.")}
 
-- Flask
-- React enthusiast
+- React Native enthusiast
 - Eager to explore new technologies
 - Always wanting to improve!
 - Currently taking Bachelor's Degree in Information, Web and Multimedia Technologies.
   
- <div><br>
-  <img align="center" alt="CakePHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cakephp/cakephp-original.svg">
-  <img align="center" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+ <div><br>    
   <img align="center" alt="React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
   <img align="center" alt="JavaScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
 </div>
