@@ -1,4 +1,4 @@
-### function Introduce(){console.log("Hello, I'm Dário Alves.")}
+### Hello, I'm Dário Alves.
 
 - React Native enthusiast
 - Eager to explore new technologies
