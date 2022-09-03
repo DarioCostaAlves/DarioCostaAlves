@@ -1,9 +1,5 @@
 <h1 align="center">Olá 👋, I'm Dário Alves</h1>
 <h3 align="center">A Mobile Developer from Portugal</h3>
-<p align="center">
-<img src="https://user-images.githubusercontent.com/64083309/187081382-e032d070-04bf-45bb-92a0-f6a5cdd47b87.gif"/>
-</p>
-
 
 
 - 🌱 I’m currently learning **React Native**
