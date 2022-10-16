@@ -2,7 +2,9 @@
 <h3 align="center">A Mobile Developer from Portugal</h3>
 
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 Front End and mobile Developer - React / React Native
+
+- I’m looking to collaborate on more Open-source projects
 
 - 👨‍💻 All of my projects are available at [https://dariocostaalves.github.io/dario-page/](https://dariocostaalves.github.io/dario-page/)
 
@@ -10,7 +12,7 @@
 
 - 📫 How to reach me **dario.c.alves22@gmail.com**
 
-- ⚡ Hobbies **Scuba Diving, Beach and Gym**
+- ⚡ fact **Scuba Diving is my favourite hobbie**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
