@@ -1,10 +1,10 @@
-<h1 align="center">Olá, I'm Dário Alves!! </h1>
-<h3 align="center">A Mobile Developer from Portugal</h3>
+<h1 align="center">Hello, I'm Dário Alves </h1>
+<h3 align="center">A Front-End Developer from Portugal</h3>
 
 
 - 🌱 Front End and mobile Developer - React / React Native
 
-- I’m looking to collaborate on more Open-source projects
+- 🤝 I’m looking to collaborate on more Open-source projects
 
 - 👨‍💻 All of my projects are available at [https://dariocostaalves.github.io/dario-page/](https://dariocostaalves.github.io/dario-page/)
 
