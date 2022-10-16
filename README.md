@@ -2,7 +2,7 @@
 <h3 align="center">A Front-End Developer from Portugal</h3>
 
 
-- 🌱 Front End and mobile Developer - React / React Native
+- 🌱 Growing on **React** and **React Native**
 
 - 🤝 I’m looking to collaborate on more Open-source projects
 
