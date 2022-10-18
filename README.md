@@ -4,15 +4,15 @@
 
 - 🌱 Growing on **React** and **React Native**
 
-- 🤝 I’m looking to collaborate on more Open-source projects
+- 🤝 I’m looking to collaborate on more **Open-source projects**
 
-- 👨‍💻 All of my projects are available at [https://dariocostaalves.github.io/dario-page/](https://dariocostaalves.github.io/dario-page/)
+- 👨‍💻 All of my **projects** are available at [https://dariocostaalves.github.io/dario-page/](https://dariocostaalves.github.io/dario-page/)
 
-- 💬 Currently taking the **Bachelor Degree in Information, Web and Multimedia Technologies 2º year**
+- 💬 Currently taking the **Bachelor Degree** in Information, Web and Multimedia Technologies
 
 - 📫 How to reach me **dario.c.alves22@gmail.com**
 
-- ⚡ fact **Scuba Diving is my favourite hobbie**
+- ⚡ Fast Fact **Scuba Diving is my favourite hobbie**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
