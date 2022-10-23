@@ -26,5 +26,3 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dariocostaalves&" alt="dariocostaalves" /></p>
 
-[![@dariocostaalves's Holopin board](https://holopin.me/dariocostaalves)](https://holopin.io/@dariocostaalves)
-
