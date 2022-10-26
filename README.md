@@ -2,7 +2,7 @@
 <h3 align="center">A Front-End Developer from Portugal</h3>
 
 
-- Working with **React - NextJS** and **React Native**
+- Working with **React -- NextJS** and **React Native**
 
 - I’m looking to collaborate on more **Open-source projects**
 
