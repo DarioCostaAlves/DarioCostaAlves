@@ -5,7 +5,7 @@
 <h3 align="center"> Front-End Developer </h3>
 
 
-- 👨🏽‍💻 Working with **React -- NextJS** and **React Native**
+- 👨🏽‍💻 Working with **React - NextJS** and **React Native**
 
 - 🫂 I’m looking to collaborate on more **Open-source projects**
 
