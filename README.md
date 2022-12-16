@@ -19,8 +19,6 @@
 
 [![@dariocostaalves's Holopin board](https://holopin.me/dariocostaalves)](https://holopin.io/@dariocostaalves)
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=DarioCostaAlves&bg_color=000000&color=4169E1&line=404591&point=4169E1&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://linkedin.com/in/dariocoding" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dariocoding" height="30" width="40" /></a>
