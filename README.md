@@ -1,5 +1,5 @@
 
-<h2 align="center">  Hello, I'm Dário Costa Alves  </h2>
+<h2 align="center">  Hello, I'm Dário Alves  </h2>
 
 <h3 align="center">  A Front-End Developer  from Portugal</h3>
 
