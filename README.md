@@ -51,7 +51,7 @@ style="padding-right:10px" src="https://www.vectorlogo.zone/logos/git-scm/git-sc
 
 ### 📊 Stats
 
-![Dário's GitHub stats](https://github-readme-stats.vercel.app/api?username=dariocostaalves&show_icons=true&theme=gruvbox)
+![Dário's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=dariocostaalves&show_icons=true&theme=gruvbox)
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
 
