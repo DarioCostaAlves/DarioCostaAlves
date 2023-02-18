@@ -58,7 +58,7 @@ style="padding-right:10px" src="https://www.vectorlogo.zone/logos/git-scm/git-sc
 #
 
 <details>
- <summary><h3>👨‍💻 Dário's Coding Journey</h3></summary>
+ <summary><h3>👨‍💻 Dário's Coding Journey</h3> </summary>
    I am a passionate and highly skilled programmer with a technical background in Technologies and Information Systems Programming finished in 2021 and a degree in Information, Web, and Multimedia Technologies from the University of Maia. My six-month internship in web development honed my web development skills and ability to work in a fast-paced team environment. I have published my works on LinkedIn, have a background in tourism, and am proficient in Portuguese, English, and Spanish with strong communication and stress management skills gained from my experience in the tourism industry. I am confident in my ability to bring value to any organization. 2023 will be a good year for development.
 
 [website]: https://dariocostaalves.github.io/dario-page/
