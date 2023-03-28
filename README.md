@@ -2,7 +2,7 @@
 
 **`Digital Craftsman (Developer/Creator)`**
 
-I'm an a front-end developer with a passion for development. All coding projects are available to check. From planning and designing all the way to solving real-life problems with code.
+I'm an a front-end developer with a passion for development. All coding projects are available to check. From planning and designing all the way to solving real-life problems with code..
 
 ---
 
