@@ -1,8 +1,11 @@
 # 🤿 Dário Alves
 
-**`Digital Craftsman (Developer/Creator)`**
+**`DeepSeaCoder (Developer/Diver)`**
 
-I'm an a front-end developer with a passion for development. All coding projects are available to check. From planning and designing all the way to solving real-life problems with code.
+<h3>Coding Journey</h3> </summary>
+   I am a passionate and highly skilled programmer with a technical background in Technologies and Information Systems Programming finished in 2021 and a degree in Information, Web, and Multimedia Technologies from the University of Maia. My six-month internship in web development honed my web development skills and ability to work in a fast-paced team environment. I have published my works on LinkedIn, have a background in tourism, and am proficient in Portuguese, English, and Spanish with strong communication and stress management skills gained from my experience in the tourism industry. I am confident in my ability to bring value to any organization. 2023 will be a good year for development.
+   
+<h5>Hobbies: Scuba Diving and programming: Both hobbies require a certain level of patience and persistence to achieve desired results, whether that's exploring the depths of the ocean or building complex software systems.</h5>
 
 ---
 
@@ -55,11 +58,5 @@ style="padding-right:10px" src="https://www.vectorlogo.zone/logos/git-scm/git-sc
 ![Dário's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=dariocostaalves&show_icons=true&theme=gruvbox)
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
-
-#
-
-<details>
- <summary><h3>👨‍💻 Dário's Coding Journey</h3> </summary>
-   I am a passionate and highly skilled programmer with a technical background in Technologies and Information Systems Programming finished in 2021 and a degree in Information, Web, and Multimedia Technologies from the University of Maia. My six-month internship in web development honed my web development skills and ability to work in a fast-paced team environment. I have published my works on LinkedIn, have a background in tourism, and am proficient in Portuguese, English, and Spanish with strong communication and stress management skills gained from my experience in the tourism industry. I am confident in my ability to bring value to any organization. 2023 will be a good year for development.
 
 [website]: https://dariocostaalves.github.io/dario-page/
