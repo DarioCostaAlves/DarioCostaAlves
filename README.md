@@ -3,7 +3,7 @@
 **`DeepSeaCoder (Developer/Diver)`**
 
 <h3> Coding Journey</h3> </summary>
-   I am a passionate and highly skilled programmer with a technical background in Technologies and Information Systems Programming finished in 2021 and a degree in Information, Web, and Multimedia Technologies from the University of Maia. My six-month internship in web development honed my web development skills and ability to work in a fast-paced team environment. I have published my works on LinkedIn, have a background in tourism, and am proficient in Portuguese, English, and Spanish with strong communication and stress management skills gained from my experience in the tourism industry. I am confident in my ability to bring value to any organization. 2023 will be a good year for development.
+   I am a passionate and highly skilled programmer with a technical background in Technologies and Information Systems Programming finished in 2021 and a degree in Information, Web, and Multimedia Technologies from the University of Maia. My six-month internship in web development honed my web development skills and ability to work in a fast-paced team environment. I have published my works on LinkedIn, have a background in tourism, and am proficient in Portuguese, English, and Spanish with strong communication and stress management skills gained from my experience in the tourism industry. I am confident in my ability to bring value to any organization.
    
 <h5>Hobbies: Scuba Diving and programming: Both hobbies require a certain level of patience and persistence to achieve desired results, whether that's exploring the depths of the ocean or building complex software systems. </h5>
 
