@@ -55,7 +55,7 @@ style="padding-right:10px" src="https://www.vectorlogo.zone/logos/git-scm/git-sc
 
 #
 
-### 📊 Stats
+### 📊 Stats (just to show you that I'm very active)
 
 ![Dário's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=dariocostaalves&show_icons=true&theme=gruvbox)
 
